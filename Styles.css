@@ -1,6 +1,6 @@
 body {
         background-color: rgb(128, 110, 110);
-        background-image: url("bg.jpg");
+        background-image: url("../img/bg.jpg");
         background-repeat: repeat;
         box-sizing: border-box;
         font-family: Georgia, "Times New Roman", serif;
@@ -22,7 +22,7 @@ body {
     text-align: center;
     padding:10px 40px;
     border:50px solid #fff;
-    border-image: url("roses.png") 25% round;
+    border-image: url("../img/roses.png") 25% round;
 	color: #fff;
 }
 
@@ -32,7 +32,7 @@ body {
         width:220px;
         height:198px;
         margin:10px;
-            /*background-image: url(bg1.jpg);
+            /*background-image: url(../img/bg1.jpg);
             background-repeat: no-repeat;
             background-position: bottom;*/
 }
@@ -59,7 +59,7 @@ figure img {
 
 figcaption {
     text-indent: 20px;
-    background-image: url("smile.png");
+    background-image: url("../img/smile.png");
     background-repeat: no-repeat;
 	color: #fff;
 }
